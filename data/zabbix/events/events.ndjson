@@ -1,0 +1,4 @@
+{"clock":1744633541,"ns":268743867,"value":1,"eventid":724,"name":"ICMP Ping: Unavailable by ICMP ping","severity":4,"hosts":[{"host":"application - ping","name":"application - ping"}],"groups":["Applications"],"tags":[{"tag":"scope","value":"availability"},{"tag":"component","value":"health"},{"tag":"component","value":"network"},{"tag":"class","value":"network"},{"tag":"target","value":"icmp"}]}
+{"clock":1744633544,"ns":273843774,"value":1,"eventid":725,"name":"ICMP Ping: Unavailable by ICMP ping","severity":4,"hosts":[{"host":"database - ping","name":"database - ping"}],"groups":["Databases"],"tags":[{"tag":"scope","value":"availability"},{"tag":"component","value":"health"},{"tag":"component","value":"network"},{"tag":"class","value":"network"},{"tag":"target","value":"icmp"}]}
+{"clock":1744634621,"ns":716713556,"value":0,"eventid":726,"p_eventid":724}
+{"clock":1744634623,"ns":720842790,"value":0,"eventid":727,"p_eventid":725}

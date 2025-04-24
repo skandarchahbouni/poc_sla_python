@@ -1,0 +1,39 @@
+{
+  "clock": 1744633541,
+  "ns": 268743867,
+  "value": 1,
+  "eventid": 724,
+  "name": "ICMP Ping: Unavailable by ICMP ping",
+  "severity": 4,
+  "hosts": [
+    {
+      "host": "application - ping",
+      "name": "application - ping"
+    }
+  ],
+  "groups": [
+    "Applications"
+  ],
+  "tags": [
+    {
+      "tag": "scope",
+      "value": "availability"
+    },
+    {
+      "tag": "component",
+      "value": "health"
+    },
+    {
+      "tag": "component",
+      "value": "network"
+    },
+    {
+      "tag": "class",
+      "value": "network"
+    },
+    {
+      "tag": "target",
+      "value": "icmp"
+    }
+  ]
+}

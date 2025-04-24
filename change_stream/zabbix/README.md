@@ -1,0 +1,1 @@
+- Add here documentation about how events in zabbix looks like.
